@@ -2,7 +2,7 @@
 
 ### Hello! 
 
-I'm a student in Cork Institute of Technology studying Software development in fourth year.
+I'm a student in Munster Technological University studying Software development in fourth year.
 
 <!--
 **FurfurV/FurfurV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
