@@ -1,8 +1,7 @@
-![banner](https://user-images.githubusercontent.com/44726497/95476051-c163bb00-097e-11eb-87d0-c357ce904f6a.png)
+# Hello, World! 
 
-### Hello! 
+<img src="https://user-images.githubusercontent.com/44726497/195989499-eb1475c7-ed57-40e9-87ac-fe4fd2473dc5.gif" alt="hula_loop_octodex03" width="200"/>
 
-I'm a student in Munster Technological University studying Software development in fourth year.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FurfurV&layout=compact&theme=vue-dark)](https://github.com/FurfurV/github-readme-stats)
 
